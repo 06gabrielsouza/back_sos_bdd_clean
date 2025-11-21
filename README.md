@@ -1,4 +1,4 @@
-# Back-S.O.S - Testes BDD
+ # Back-S.O.S - Testes BDD
 
 Testes automatizados em Behavior-Driven Development para o sistema de denúncias anônimas Back-S.O.S.
 
@@ -7,7 +7,7 @@ Testes automatizados em Behavior-Driven Development para o sistema de denúncias
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone <(https://github.com/06gabrielsouza/back_sos_bdd_clean)>
+git clone <https://github.com/06gabrielsouza/back_sos_bdd_clean>
 cd back_sos_bdd
 python3 -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
